@@ -1,0 +1,19 @@
+PARA FAZER FUNCIONAR O LPT Web controller # 29-Novembro-2006
+============================================================
+
+1. Extraia o pacote em seu diretório Web ("public_html", por exemplo);
+2. Inicie a execução do daemon com o comando (no diretório "lpt"):
+
+        $ sudo ./daemon
+
+3. Se quiser deixar o daemon rodando em 'background', digite o comando e mais o
+&, como abaixo:
+ 
+        $ sudo ./daemon &
+
+4. E pronto! Acesse depois a página e boa sorte!
+
+Qualquer problema entre em contato!!!
+
+Jéter Vaz - jetervaz (a) gmail.com
+http://jetervaz.wordpress.com

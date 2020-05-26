@@ -1,0 +1,58 @@
+body {
+    font-size: 13px;
+}
+
+h1 {
+    color: #365;
+    margin: 5px;
+    margin-bottom: 12px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+
+#estados {
+/*    border: 1px solid black;*/
+    padding: 10px;
+}
+
+select, input {
+	border: 1px solid black;
+}
+
+#status {
+    visibility: hidden;
+    background: #fdc;
+}
+
+#ex {
+    background: #efe;
+}
+
+a {
+    text-decoration: underline;
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+.msg {
+    border: 1px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 15px;
+    width: 300px;
+    position: absolute;
+    top: 135px;
+    left: 100px;
+}
+
+#controle {
+    background: #fcc;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
