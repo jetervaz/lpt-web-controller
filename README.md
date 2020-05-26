@@ -20,7 +20,7 @@ Para mudar o dono do arquivo, digite (no diretorio `lpt/`):
 ```
 sudo chown nome_de_usuario_do_servidor_web fazer.txt
 ```
-Se o usuario do servidor web for www-data, como o meu, fica:
+Se o usuario do servidor web for `www-data`, como o meu, fica:
 ```
 sudo chown www-data fazer.txt
 ```
