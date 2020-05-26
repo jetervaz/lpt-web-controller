@@ -4,10 +4,12 @@
 
 O sistema web consiste em uma página completamente simples que permite controlar o *status* de cada *bit* do **registrador de dados** da [porta paralela](http://arquivo.ufv.br/dea/ambiagro/arquivos/ParallelPort/PortaParalela/), onde os sinais variam de 0 a 5V (nivel lógico baixo – zero – e alto – um -, respectivamente). Seguem algumas screenshots (feio pra caramba.. haha):
 
-[Selecionando um dos pinos - *bits* - do registrador de dados](https://jetervaz.files.wordpress.com/2014/10/lpt1.png)
-[Enviando o comando para ser executado](https://jetervaz.files.wordpress.com/2014/10/lpt2.png)
+![Selecionando um dos pinos - *bits* - do registrador de dados](https://jetervaz.files.wordpress.com/2014/10/lpt1.png)
+![Enviando o comando para ser executado](https://jetervaz.files.wordpress.com/2014/10/lpt2.png)
 
-Informações sobre a Porta Paralela - que inclusive usei à época e que antes estavam disponíveis no site *rogercom.com* -, inclusive sobre como montar um circuito eletrônico para plugar nela, podem ser encontradas [aqui](http://arquivo.ufv.br/dea/ambiagro/arquivos/ParallelPort/PortaParalela/).
+## Sobre a Porta Paralela e o conector DB25
+
+Informações sobre a Porta Paralela (que inclusive usei à época e que antes estavam disponíveis no site *rogercom.com*), inclusive sobre como montar um circuito eletrônico para plugar nela, podem ser encontradas [aqui](http://arquivo.ufv.br/dea/ambiagro/arquivos/ParallelPort/PortaParalela/).
 
 ## Para fazer funcionar
 *(última edição: 18Abr2007)*
