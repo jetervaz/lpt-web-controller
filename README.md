@@ -1,5 +1,7 @@
 # Interface web para controle da Porta Paralela (LPT) no Linux
 
+![GitHub](https://img.shields.io/github/license/jetervaz/lpt-web-controller)
+
 *Este é um outro projeto feito em 2006 que resolvi agora disponibilizar via Github. O código é objeto de uma postagem em meu antigo blog pessoal, que você pode encontrar [aqui](https://jetervaz.wordpress.com/2014/10/04/interface-web-para-controle-da-porta-paralela-linux/), cujas partes mais relevantes seguem reproduzidas a seguir.*
 
 O sistema web consiste em uma página completamente simples que permite controlar o *status* de cada *bit* do **registrador de dados** da [porta paralela](http://arquivo.ufv.br/dea/ambiagro/arquivos/ParallelPort/PortaParalela/), onde os sinais variam de 0 a 5V (nivel lógico baixo – zero – e alto – um -, respectivamente). Seguem algumas screenshots (feio pra caramba.. haha):
